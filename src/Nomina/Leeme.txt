@@ -1,0 +1,20 @@
+============================================================================================
+<============================= SISTEMA DE NÓMINA ==========================================>
+============================================================================================
+
+Antes de hacer uso de este programa tome en cuenta las siguientes recomendaciones:
+
+	1. Copie el archivo "BD2" en el disco local (c:)
+	2. Una vez ejecutado el programa aparecerá la pantalla de validación en la cual
+	   deberá introducir la siguiente información para acceder al contenido del
+	   del mismo:
+		
+		Usuario: marko
+		Contraseña: 10102002
+
+	  NOTA: ES RECOMENDABLE QUE GUARDE ESTA INFORMACIÓN YA QUE SE LE SERÁ 
+		SOLICITADA CADA VEZ QUE EJECUTE EL PROGRAMA.
+
+
+								
+					Elaborado por: Marko Antonio Zamudio Martínez
